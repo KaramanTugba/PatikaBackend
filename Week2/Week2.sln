@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileVSDoWhile", "WhileVSDo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YolArkadasi", "YolArkadasi\YolArkadasi.csproj", "{7165FE5D-0B32-4366-9B90-459284315CA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlkMetot", "IlkMetot\IlkMetot.csproj", "{28C9BB86-004B-4D8B-8DA0-B4A3E5C993AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7165FE5D-0B32-4366-9B90-459284315CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7165FE5D-0B32-4366-9B90-459284315CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7165FE5D-0B32-4366-9B90-459284315CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C9BB86-004B-4D8B-8DA0-B4A3E5C993AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C9BB86-004B-4D8B-8DA0-B4A3E5C993AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C9BB86-004B-4D8B-8DA0-B4A3E5C993AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C9BB86-004B-4D8B-8DA0-B4A3E5C993AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\obj\Debug\netcoreapp2.1\IlkMetot.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\obj\Debug\netcoreapp2.1\IlkMetot.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\obj\Debug\netcoreapp2.1\IlkMetot.AssemblyInfo.cs
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\bin\Debug\netcoreapp2.1\IlkMetot.deps.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\bin\Debug\netcoreapp2.1\IlkMetot.runtimeconfig.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\bin\Debug\netcoreapp2.1\IlkMetot.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\bin\Debug\netcoreapp2.1\IlkMetot.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\bin\Debug\netcoreapp2.1\IlkMetot.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\obj\Debug\netcoreapp2.1\IlkMetot.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\IlkMetot\obj\Debug\netcoreapp2.1\IlkMetot.pdb
