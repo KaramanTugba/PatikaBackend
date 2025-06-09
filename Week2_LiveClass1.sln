@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "..\Loops\Loops.csproj", "{45F99EF7-8B86-4356-A9A6-07E1F91D9FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "..\ForLoop\ForLoop.csproj", "{D6B79809-28E6-4A6F-86E7-0E86659F22C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotlarGiris", "..\MetotlarGiris\MetotlarGiris.csproj", "{1BF496EE-1DFE-4EF3-B9A1-C8A041AA876B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F99EF7-8B86-4356-A9A6-07E1F91D9FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F99EF7-8B86-4356-A9A6-07E1F91D9FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F99EF7-8B86-4356-A9A6-07E1F91D9FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F99EF7-8B86-4356-A9A6-07E1F91D9FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B79809-28E6-4A6F-86E7-0E86659F22C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B79809-28E6-4A6F-86E7-0E86659F22C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B79809-28E6-4A6F-86E7-0E86659F22C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B79809-28E6-4A6F-86E7-0E86659F22C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF496EE-1DFE-4EF3-B9A1-C8A041AA876B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF496EE-1DFE-4EF3-B9A1-C8A041AA876B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF496EE-1DFE-4EF3-B9A1-C8A041AA876B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF496EE-1DFE-4EF3-B9A1-C8A041AA876B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B509948-BEB3-4B3E-AB7E-A5D14DCD23FE}
+	EndGlobalSection
+EndGlobal
