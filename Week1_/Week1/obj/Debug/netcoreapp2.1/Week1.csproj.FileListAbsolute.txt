@@ -9,3 +9,14 @@ C:\Users\Meyer\source\repos\Week1\obj\Debug\netcoreapp2.1\Week1.AssemblyInfoInpu
 C:\Users\Meyer\source\repos\Week1\obj\Debug\netcoreapp2.1\Week1.AssemblyInfo.cs
 C:\Users\Meyer\source\repos\Week1\obj\Debug\netcoreapp2.1\Week1.dll
 C:\Users\Meyer\source\repos\Week1\obj\Debug\netcoreapp2.1\Week1.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\Week1.deps.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\Week1.runtimeconfig.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\Week1.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\Week1.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\Week1.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\Week1.csprojAssemblyReference.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\Week1.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\Week1.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\Week1.AssemblyInfo.cs
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\Week1.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\Week1.pdb

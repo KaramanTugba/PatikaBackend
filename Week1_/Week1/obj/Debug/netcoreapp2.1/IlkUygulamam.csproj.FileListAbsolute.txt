@@ -1,0 +1,11 @@
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\IlkUygulamam.deps.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\IlkUygulamam.runtimeconfig.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\IlkUygulamam.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\IlkUygulamam.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\bin\Debug\netcoreapp2.1\IlkUygulamam.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\IlkUygulamam.csprojAssemblyReference.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\IlkUygulamam.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\IlkUygulamam.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\IlkUygulamam.AssemblyInfo.cs
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\IlkUygulamam.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\Week1\obj\Debug\netcoreapp2.1\IlkUygulamam.pdb

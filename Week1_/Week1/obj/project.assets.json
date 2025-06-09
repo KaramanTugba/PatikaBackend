@@ -695,9 +695,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meyer\\Documents\\GitHub\\PatikaBackend\\Week1_\\Week1\\Week1.csproj",
-      "projectName": "Week1",
-      "projectPath": "C:\\Users\\Meyer\\Documents\\GitHub\\PatikaBackend\\Week1_\\Week1\\Week1.csproj",
+      "projectUniqueName": "C:\\Users\\Meyer\\Documents\\GitHub\\PatikaBackend\\Week1_\\Week1\\IlkUygulamam.csproj",
+      "projectName": "IlkUygulamam",
+      "projectPath": "C:\\Users\\Meyer\\Documents\\GitHub\\PatikaBackend\\Week1_\\Week1\\IlkUygulamam.csproj",
       "packagesPath": "C:\\Users\\Meyer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Meyer\\Documents\\GitHub\\PatikaBackend\\Week1_\\Week1\\obj\\",
       "projectStyle": "PackageReference",
