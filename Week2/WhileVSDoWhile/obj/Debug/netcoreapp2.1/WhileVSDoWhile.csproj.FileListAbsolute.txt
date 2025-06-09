@@ -1,0 +1,11 @@
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\bin\Debug\netcoreapp2.1\WhileVSDoWhile.deps.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\bin\Debug\netcoreapp2.1\WhileVSDoWhile.runtimeconfig.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\bin\Debug\netcoreapp2.1\WhileVSDoWhile.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\bin\Debug\netcoreapp2.1\WhileVSDoWhile.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\bin\Debug\netcoreapp2.1\WhileVSDoWhile.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\obj\Debug\netcoreapp2.1\WhileVSDoWhile.csprojAssemblyReference.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\obj\Debug\netcoreapp2.1\WhileVSDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\obj\Debug\netcoreapp2.1\WhileVSDoWhile.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\obj\Debug\netcoreapp2.1\WhileVSDoWhile.AssemblyInfo.cs
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\obj\Debug\netcoreapp2.1\WhileVSDoWhile.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\WhileVSDoWhile\obj\Debug\netcoreapp2.1\WhileVSDoWhile.pdb
