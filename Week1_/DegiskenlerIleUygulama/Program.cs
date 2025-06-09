@@ -6,6 +6,10 @@ namespace DegiskenlerIleUygulama
     {
         static void Main(string[] args)
         {
+            //Fiyat ile alakalı işlem yapılacağından int yerine double türünden tanımlama yaptım
+
+
+
             Console.WriteLine("Lütfen aşağıdaki bilgileri giriniz.");
             Console.Write("T.C. Kimlik numaranız: ");
             string TC = Console.ReadLine();
