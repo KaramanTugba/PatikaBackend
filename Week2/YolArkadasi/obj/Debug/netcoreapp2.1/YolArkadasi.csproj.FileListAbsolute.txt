@@ -1,0 +1,10 @@
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\bin\Debug\netcoreapp2.1\YolArkadasi.deps.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\bin\Debug\netcoreapp2.1\YolArkadasi.runtimeconfig.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\bin\Debug\netcoreapp2.1\YolArkadasi.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\bin\Debug\netcoreapp2.1\YolArkadasi.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\bin\Debug\netcoreapp2.1\YolArkadasi.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\obj\Debug\netcoreapp2.1\YolArkadasi.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\obj\Debug\netcoreapp2.1\YolArkadasi.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\obj\Debug\netcoreapp2.1\YolArkadasi.AssemblyInfo.cs
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\obj\Debug\netcoreapp2.1\YolArkadasi.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\YolArkadasi\obj\Debug\netcoreapp2.1\YolArkadasi.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_Ornekleri", "While_Or
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileVSDoWhile", "WhileVSDoWhile\WhileVSDoWhile.csproj", "{A746B361-3B80-4349-8354-EC4175DF8C16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YolArkadasi", "YolArkadasi\YolArkadasi.csproj", "{7165FE5D-0B32-4366-9B90-459284315CA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A746B361-3B80-4349-8354-EC4175DF8C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A746B361-3B80-4349-8354-EC4175DF8C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A746B361-3B80-4349-8354-EC4175DF8C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7165FE5D-0B32-4366-9B90-459284315CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7165FE5D-0B32-4366-9B90-459284315CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7165FE5D-0B32-4366-9B90-459284315CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7165FE5D-0B32-4366-9B90-459284315CA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
