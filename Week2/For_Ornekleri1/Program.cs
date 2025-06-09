@@ -47,7 +47,7 @@ namespace For_Ornekleri
             Console.WriteLine("5- -------------------------------------");
             int cifttop = 0;
             int tektop = 0;
-            for (int i = 50; i < 151; i++)
+            for (int i = 1; i < 121; i++)
             {
                 if (i % 2 == 0)
                 {

@@ -1,0 +1,10 @@
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\bin\Debug\netcoreapp2.1\While_Ornekleri.deps.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\bin\Debug\netcoreapp2.1\While_Ornekleri.runtimeconfig.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\bin\Debug\netcoreapp2.1\While_Ornekleri.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\bin\Debug\netcoreapp2.1\While_Ornekleri.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\bin\Debug\netcoreapp2.1\While_Ornekleri.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\obj\Debug\netcoreapp2.1\While_Ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\obj\Debug\netcoreapp2.1\While_Ornekleri.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\obj\Debug\netcoreapp2.1\While_Ornekleri.AssemblyInfo.cs
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\obj\Debug\netcoreapp2.1\While_Ornekleri.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\While_Ornekleri\obj\Debug\netcoreapp2.1\While_Ornekleri.pdb
