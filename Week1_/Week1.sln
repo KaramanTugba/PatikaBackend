@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If_Else", "If_Else\If_Else.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If_Switch", "If_Switch\If_Switch.csproj", "{E98D6688-2EB1-4B35-BA4E-8188A6ADA795}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimMilyonerOlmakIster", "KimMilyonerOlmakIster\KimMilyonerOlmakIster.csproj", "{07158743-6318-40A8-8AA1-C97A9B048E8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E98D6688-2EB1-4B35-BA4E-8188A6ADA795}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E98D6688-2EB1-4B35-BA4E-8188A6ADA795}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E98D6688-2EB1-4B35-BA4E-8188A6ADA795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07158743-6318-40A8-8AA1-C97A9B048E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07158743-6318-40A8-8AA1-C97A9B048E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07158743-6318-40A8-8AA1-C97A9B048E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07158743-6318-40A8-8AA1-C97A9B048E8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

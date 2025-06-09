@@ -1,0 +1,10 @@
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\bin\Debug\netcoreapp2.1\KimMilyonerOlmakIster.deps.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\bin\Debug\netcoreapp2.1\KimMilyonerOlmakIster.runtimeconfig.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\bin\Debug\netcoreapp2.1\KimMilyonerOlmakIster.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\bin\Debug\netcoreapp2.1\KimMilyonerOlmakIster.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\bin\Debug\netcoreapp2.1\KimMilyonerOlmakIster.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\obj\Debug\netcoreapp2.1\KimMilyonerOlmakIster.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\obj\Debug\netcoreapp2.1\KimMilyonerOlmakIster.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\obj\Debug\netcoreapp2.1\KimMilyonerOlmakIster.AssemblyInfo.cs
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\obj\Debug\netcoreapp2.1\KimMilyonerOlmakIster.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\KimMilyonerOlmakIster\obj\Debug\netcoreapp2.1\KimMilyonerOlmakIster.pdb
