@@ -1,0 +1,11 @@
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\bin\Debug\netcoreapp2.1\For_Ornekleri1.deps.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\bin\Debug\netcoreapp2.1\For_Ornekleri1.runtimeconfig.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\bin\Debug\netcoreapp2.1\For_Ornekleri1.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\bin\Debug\netcoreapp2.1\For_Ornekleri1.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\bin\Debug\netcoreapp2.1\For_Ornekleri1.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\obj\Debug\netcoreapp2.1\For_Ornekleri1.csprojAssemblyReference.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\obj\Debug\netcoreapp2.1\For_Ornekleri1.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\obj\Debug\netcoreapp2.1\For_Ornekleri1.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\obj\Debug\netcoreapp2.1\For_Ornekleri1.AssemblyInfo.cs
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\obj\Debug\netcoreapp2.1\For_Ornekleri1.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week2\For_Ornekleri1\obj\Debug\netcoreapp2.1\For_Ornekleri1.pdb
