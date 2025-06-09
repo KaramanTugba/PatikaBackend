@@ -1,0 +1,10 @@
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\bin\Debug\netcoreapp2.1\DegiskenlerIleUygulama.deps.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\bin\Debug\netcoreapp2.1\DegiskenlerIleUygulama.runtimeconfig.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\bin\Debug\netcoreapp2.1\DegiskenlerIleUygulama.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\bin\Debug\netcoreapp2.1\DegiskenlerIleUygulama.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\bin\Debug\netcoreapp2.1\DegiskenlerIleUygulama.pdb
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\obj\Debug\netcoreapp2.1\DegiskenlerIleUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\obj\Debug\netcoreapp2.1\DegiskenlerIleUygulama.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\obj\Debug\netcoreapp2.1\DegiskenlerIleUygulama.AssemblyInfo.cs
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\obj\Debug\netcoreapp2.1\DegiskenlerIleUygulama.dll
+C:\Users\Meyer\Documents\GitHub\PatikaBackend\Week1_\DegiskenlerIleUygulama\obj\Debug\netcoreapp2.1\DegiskenlerIleUygulama.pdb
